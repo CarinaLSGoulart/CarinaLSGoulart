@@ -7,8 +7,8 @@
 - 😄 Pronouns: ela/dela
 
   <div> 
-    <img height="180em" width="500em" src="https://github-readme-stats.vercel.app/api?username=CarinaLSGoulart&count_private=true&show_icons=true&theme=tokyonight"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarinaLSGoulart&layout=compact&theme=tokyonight"/>
+    <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=CarinaLSGoulart&count_private=true&show_icons=true&theme=tokyonight"/>
+    <img height="180em" width="400em"src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarinaLSGoulart&layout=compact&theme=tokyonight"/>
   </div>
 
   <div style="display: inline_block"><br>
