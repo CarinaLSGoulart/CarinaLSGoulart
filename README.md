@@ -2,13 +2,12 @@
 
 
 - 🔭 Em busca de uma vaga como DEV / Looking for a DEV job
-- 🌱 I’m currently learning ...
-
+- 📖 JavaScript, NodeJS, Express, MySql, HTML, CSS, React
 - 📫 Contato: carininhalemos@yahoo.com.br
 - 😄 Pronouns: ela/dela
 
   <div> 
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CarinaLSGoulart&count_private=true&show_icons=true&theme=tokyonight"/>
+    <img height="180em" width="500em" src="https://github-readme-stats.vercel.app/api?username=CarinaLSGoulart&count_private=true&show_icons=true&theme=tokyonight"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarinaLSGoulart&layout=compact&theme=tokyonight"/>
   </div>
 
