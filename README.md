@@ -1,3 +1,5 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=04CFAA&height=120&section=header"/>
+
 ### Olá, eu sou Carina! 👋
 
 
@@ -6,10 +8,16 @@
 - 📫 Contato: carininhalemos@yahoo.com.br
 - 😄 Pronouns: ela/dela
 
+
   <div> 
+	<p align="center">
     <img align="center" height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=CarinaLSGoulart&count_private=true&show_icons=true&theme=tokyonight"/>
-    <img align="center" height="180em" width="400em"src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarinaLSGoulart&layout=compact&theme=tokyonight"/>
+    <img align="center" height="200em" width="400em"src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarinaLSGoulart&layout=compact&theme=tokyonight"/>
+	</p>
   </div>
+##
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=CarinaLSGoulart&bg_color=0d1117&color=27A3EF&line=b13583&point=F9FC05&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ##
   <div style="display: inline_block"><br>
   <details>
@@ -39,3 +47,4 @@
    </div>
   
   
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=04CFAA&height=120&section=footer"/>
