@@ -7,8 +7,8 @@
 - 😄 Pronouns: ela/dela
 
   <div> 
-    <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=CarinaLSGoulart&count_private=true&show_icons=true&theme=tokyonight"/>
-    <img height="180em" width="400em"src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarinaLSGoulart&layout=compact&theme=tokyonight"/>
+    <img align="center" height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=CarinaLSGoulart&count_private=true&show_icons=true&theme=tokyonight"/>
+    <img align="center" height="180em" width="400em"src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarinaLSGoulart&layout=compact&theme=tokyonight"/>
   </div>
 
   <div style="display: inline_block"><br>
@@ -22,10 +22,8 @@
   </div><br>
   
   <div>
-     <a href="https://discord.com/channels/carinalsgoulart#1670" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href="https://www.linkedin.com/in/carina-de-lemos-silva-goulart-33850769/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-  
-  ![Snake animation](https://github.com/CarinaLSGoulart/CarinaLSGoulart/blob/output/github-contribution-grid-snake.svg)
+     <a href="https://discord.com/channels/carinalsgoulart#1670" target="_blank"><img align="center" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/carina-de-lemos-silva-goulart-33850769/" target="_blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   </div>
   
+  ![Snake animation](https://github.com/CarinaLSGoulart/CarinaLSGoulart/blob/output/github-contribution-grid-snake.svg)
